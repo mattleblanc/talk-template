@@ -7,7 +7,7 @@ Subtitle goes here
 
 <br><br>
 
-Matt LeBlanc (arizona)<br>
+Matt LeBlanc (Arizona)<br>
 [matt.leblanc@cern.ch](mailto:matt.leblanc@cern.ch)
 
 ---

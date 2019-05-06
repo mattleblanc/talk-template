@@ -348,10 +348,10 @@ td {
 
 .title-slide:after {
     content: '';
-    background: url("../assets/ua_horiz_rgb_4.pdf") no-repeat;
+    background: url("../assets/ATLAS-Logo-B&W-CMYK-LGBT-simple-transparent.png") no-repeat;
     background-size: 100% 100%;
-    width: 150px;
-    height: 73px;
+    width: 200px;
+    height: 83px;
     position: absolute;
     bottom: 2em;
     left: 3.3em;

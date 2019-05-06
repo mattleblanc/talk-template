@@ -2,7 +2,7 @@
 
 body {
     font-family:  'Lato', 'Avenir Next', 'Avenir', 'Trebuchet MS', 'Segoe UI', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: #354046; /*#455a64;*/
+    color: #FF6F61
     line-height: 1.4;
     font-size: 11pt;
     word-wrap: break-word;
@@ -18,7 +18,7 @@ body {
 
 
 .footnote a{
-    color: #20707e;
+    color: #FF6F61;
 }
 
 .footnote:before {
@@ -48,18 +48,18 @@ body {
 
 .remark-slide-content {
     font-size: 1.4em;
-    border-top: solid 5px #20707e;
+    border-top: solid 5px #FF6F61;
 }
 
 .remark-slide-content h1 {
     font-weight: bold;
     font-size: 2.25em;
     margin: 0 0 .5em 0;
-    color: #17525d;
+    color: #FF6F61;
 }
 
 .remark-slide-content h2 {
-    color: #d11a01;
+    color: #009499;
     font-size: 1.5em;
     font-weight: normal;
     margin: 0 0 .5em 0;
@@ -81,7 +81,7 @@ body {
 }
 
 a {
-    color: #0288d1;
+    color: #009499;
     text-decoration: none;
 }
 
@@ -90,18 +90,18 @@ a:hover {
 }
 
 em {
-    color: #0288d1;
+    color: #009499;
     font-style: normal;
 }
 
 strong {
-    color: #d11a01;
+    color: #009499;
     font-style: normal;
     font-weight: normal;
 }
 
 .katex {
-    color: #1a7082;
+    color: #009499;
 }
 
 .remark-code {
@@ -348,7 +348,7 @@ td {
 
 .title-slide:after {
     content: '';
-    background: url("../assets/logo_ulg.png") no-repeat;
+    background: url("../assets/ua_horiz_rgb_4.pdf") no-repeat;
     background-size: 100% 100%;
     width: 150px;
     height: 73px;
@@ -363,7 +363,7 @@ td {
 }
 
 .end-slide {
-    background-color: #20707e;
+    background-color: #FF6F61;
     color: white;
     vertical-align: middle;
 }

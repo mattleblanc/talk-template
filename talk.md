@@ -1,14 +1,14 @@
 class: middle, center, title-slide
 count: false
 
-# Template
+# Title
 
-A Turing machine example
+Subtitle goes here
 
 <br><br>
 
-Prof. Gilles Louppe<br>
-[g.louppe@uliege.be](mailto:g.louppe@uliege.be)
+Matt LeBlanc (arizona)<br>
+[matt.leblanc@cern.ch](mailto:matt.leblanc@cern.ch)
 
 ---
 
@@ -75,4 +75,4 @@ class: middle
 class: end-slide, center
 count: false
 
-The end.
+Thanks!
